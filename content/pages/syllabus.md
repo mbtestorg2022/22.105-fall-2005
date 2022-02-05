@@ -59,39 +59,289 @@ Grading
 
 The final grade for the course will be based on the following:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 25% |
-| Midterm Exam | 35% |
-| Final Exam | 35% |
-| Class Participation | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Electrostatics, Coulomb force, Electric Field, Gauss' Law, Poisson's Equation |
-| 2 | Solving Poisson's Equation, Overview of Methods, 1-D Problems, Capacitance, Resistance |
-| 3 | Solving Problems Continued, Separation of Variables, Method of Images, Boundary Conditions, 2-D and 3-D Problems |
-| 4 | Solving Problems Continued, the Failure of Separation of Variables, the Method of Green's Theorem |
-| 5 | Using Green's Theorem in Complicated Geometries, Dielectric Materials |
-| 6 | Magnetostatics, Analogy to Electrostatics, Potentials, Biot-Savart Law, Ampere's Law |
-| 7 | Inductance, Magnetic Materials, Superconductors |
-| 8 | Motion of Charged Particles in Static Electric and Magnetic Fields, Spectrometers |
-| 9 | The Concept of Focusing, Electrostatic Accelerators |
-| 10 | Magnetostatic Accelerators, Beam Density Limit |
-| 11 | Quasistatics, Faraday's Law, Circuit Equations for a Solenoid, Conservation Relations |
-| 12 | Applications, Transformers, Ignition Coil, Pulsed Power Supply |
-| 13 | Applications, Magnetic Diffusion, Skin Depth, Power Dissipated |
-| 14 | Applications, AC Losses and Quench in Superconductors |
-| 15 | Applications, a Proton Beam Accelerator |
-| 16 | The Problem with Quasistatics, The Full Maxwell Equations, Forces and Energy |
-| 17 | Electromagnetic Waves, Plane Waves, Reflection, Refraction, Absorption, Transmission, Transmission Lines |
-| 18 | Waveguides, Klystrons, Gyrotrons |
-| 19 | Electromagnetic Radiation, Lienard-Wiechert Potentials, Radiation From a Moving Charge |
-| 20 | Applications, Dipole Antennas, Launching Arrays |
-| 21 | Applications, Thomson Scattering |
-| 22 | Applications, Compton Scattering, The Photo-electric Effect |
-| 23 | Applications, Synchrotron Radiation, Cerenkov Radiation |
-| 24 | Applications, Bremsstrahlung Radiation
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Electrostatics, Coulomb force, Electric Field, Gauss' Law, Poisson's Equation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Solving Poisson's Equation, Overview of Methods, 1-D Problems, Capacitance, Resistance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Solving Problems Continued, Separation of Variables, Method of Images, Boundary Conditions, 2-D and 3-D Problems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Solving Problems Continued, the Failure of Separation of Variables, the Method of Green's Theorem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Using Green's Theorem in Complicated Geometries, Dielectric Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetostatics, Analogy to Electrostatics, Potentials, Biot-Savart Law, Ampere's Law
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Inductance, Magnetic Materials, Superconductors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Motion of Charged Particles in Static Electric and Magnetic Fields, Spectrometers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Concept of Focusing, Electrostatic Accelerators
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetostatic Accelerators, Beam Density Limit
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Quasistatics, Faraday's Law, Circuit Equations for a Solenoid, Conservation Relations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Applications, Transformers, Ignition Coil, Pulsed Power Supply
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Applications, Magnetic Diffusion, Skin Depth, Power Dissipated
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Applications, AC Losses and Quench in Superconductors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Applications, a Proton Beam Accelerator
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The Problem with Quasistatics, The Full Maxwell Equations, Forces and Energy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic Waves, Plane Waves, Reflection, Refraction, Absorption, Transmission, Transmission Lines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Waveguides, Klystrons, Gyrotrons
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic Radiation, Lienard-Wiechert Potentials, Radiation From a Moving Charge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Applications, Dipole Antennas, Launching Arrays
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Applications, Thomson Scattering
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Applications, Compton Scattering, The Photo-electric Effect
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Applications, Synchrotron Radiation, Cerenkov Radiation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Applications, Bremsstrahlung Radiation
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
