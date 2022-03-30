@@ -4,6 +4,7 @@ description: This resource discusses about inductance, calculating the inductanc
   and equivalence of the two definitions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-105-electromagnetic-interactions-fall-2005/544db8af2148acb1cc42aa4f7e24e0f6_lecture7.pdf
 file_type: application/pdf
+parent_uid: 3c911222-3792-b82e-e969-b9d8cbc00cdc
 resourcetype: Document
 title: lecture7.pdf
 uid: 544db8af-2148-acb1-cc42-aa4f7e24e0f6
